@@ -1,5 +1,4 @@
 public class ArrayBilangan24 {
-
     public static void main(String[] args) {
         int [] bil = new int[4];
         bil [0] = 5;
